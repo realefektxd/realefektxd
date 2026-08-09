@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm realefekt</h1>
 <h3 align="center">A passionate SKID from Poland</h3>
 
-- 🔭 I’m currently working on [FROST SOFTWARE](https://discord.gg/K8R2uj3D57)
+- 🔭 I’m currently working on [Trupedd.eu](https://discord.gg/H9t9cJaAf9)
 
 - 📫 How to reach me **discord: realefekt**
 
